@@ -1,3 +1,6 @@
+/*Question 02
+Elevator Simulation*/
+
 #include <stdio.h>
 
 int main() {
